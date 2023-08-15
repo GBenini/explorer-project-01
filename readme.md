@@ -31,6 +31,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Móveis é uma pagina simples para seu negócio, com acesso ao Instagram e um Fale conosco.
 
+Você pode visualizar o projeto através [DESSE LINK](https://gbenini.github.io/explorer-project-01/) 👀
+
 ## 🔖 Layout
 
 Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/SSxvUs7SKSaz15IyXdCq5e/Explorer---Projeto-01-(Copy)?type=design&node-id=0-1&mode=design&t=bEhC4LnvVPoUIlpT-0). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
